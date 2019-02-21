@@ -1,5 +1,5 @@
 {
   "eslint.run": "onSave",
-  "eslint.workingDirectories": ["./pure-js-app"],
+  // "eslint.workingDirectories": ["./pure-js-app"],
   "prettier.eslintIntegration": true
 }
